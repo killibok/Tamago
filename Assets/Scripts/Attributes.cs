@@ -50,9 +50,9 @@ public class Attributes : MonoBehaviour
     }
 
 
+
 // Singleton
     public static Attributes Attr;
-
     void Awake()
    {
        if(Attr != null)

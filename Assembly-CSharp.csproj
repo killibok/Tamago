@@ -36,8 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Attributes.cs" />
      <Compile Include="Assets\Scripts\ButtonHandler.cs" />
+     <Compile Include="Assets\Scripts\Attributes.cs" />
+     <Compile Include="Assets\Scripts\AnimationHandler.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/home/manjaro/Unity/Hub/Editor/2020.1.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

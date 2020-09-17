@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-16T04:41:12.461+03:00
-  initializedAtString: 2020-09-16T04:41:12.461+03:00
+  lastUpdatedAtString: 2020-09-17T06:29:00.035+03:00
+  initializedAtString: 2020-09-17T06:29:00.035+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/killibok/Tamago.git
